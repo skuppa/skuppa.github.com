@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kuppas's blog
-tagline: Yet another blog to I have learned...
+tagline: Yet another blog, to echo what I have learned...
 ---
 {% include JB/setup %}
 

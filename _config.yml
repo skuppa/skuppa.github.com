@@ -9,7 +9,7 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Kuppa's blog
-tagline: Yet another blog, to echo what I learned
+tagline: Yet another blog, to echo what I have learned...
 author :
   name : Sridharan Kuppa
   email : sridharan.kuppa@gmail.com
